@@ -14,7 +14,6 @@ o Work Experience
 
  Use TypeScript to add basic interactivity, such as a button to toggle the visibility of the 
 "Skills" section or other sections. 
-
 Scoring Breakdown: 
  HTML Structure and Completeness (40 points): 
 o Are all sections (Personal Info, Education, Skills, etc.) clearly created using proper 
